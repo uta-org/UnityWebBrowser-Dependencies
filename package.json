@@ -1,0 +1,8 @@
+{
+  "displayName": "Unity Web Browser Dependencies",
+  "description": "Dependencies for Unity Web Browser",
+  "version": "2.0.0-preview.3-104.4.22",
+  "unity": "2021.3",
+  "author": "z3nth10n",
+  "name": "dev.z3nth10n.unitywebbrowser.dependencies"
+}
